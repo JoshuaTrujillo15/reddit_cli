@@ -1,0 +1,4 @@
+# Ignore sensitive environment variables
+
+# api key
+.env
